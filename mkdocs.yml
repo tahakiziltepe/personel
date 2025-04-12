@@ -22,3 +22,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tahakiziltepe/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mtahakiziltepe/

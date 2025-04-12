@@ -1,3 +1,3 @@
 # About
 
-Hey, I'm Taha. DWH Developer, BI Specialist.
+👋 Hey, I'm Taha. DWH & BI Developer.

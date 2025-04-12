@@ -1,5 +1,6 @@
 # Welcome 
-Welcome to my personel website.
+
+👋 Hey, I'm Taha. DWH & BI Developer.
 
 <!-- ## Commands
 
