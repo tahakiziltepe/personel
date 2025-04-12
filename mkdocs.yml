@@ -4,6 +4,7 @@ nav:
   - About: about.md
   - Projects: projects.md
   - Articles: articles.md
+  - Videos: videos.md
 theme:
   name: material
   icon:
